@@ -1,6 +1,6 @@
 // access options
-aws_access_key 	= "AKIAIUDRJRQ5MLVEXFTA"
-aws_secret_key 	= "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"
+aws_access_key 	= ""
+aws_secret_key 	= ""
 aws_key_name   	= "codedeploy"
 
 // instance options
